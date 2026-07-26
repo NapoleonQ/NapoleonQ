@@ -1,7 +1,7 @@
 ## Hi, I'm Napoleón 
 
 ### 🚀 About Me
-I am a 17yo technology and Free Software enthusiast. I am currently training to become a **Full Stack Developer**.
+I am a 18yo technology and Free Software enthusiast. I am currently training to become a **Full Stack Developer**.
 
 ### 🛠️ Tech Stack & Environment
 * **OS:** ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge) (Hyprland)
